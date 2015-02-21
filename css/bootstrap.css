@@ -1346,7 +1346,7 @@ code {
 kbd {
   padding: 2px 4px;
   font-size: 90%;
-  color: #ffffff;
+  color: #18bc9c;
   background-color: #333333;
   border-radius: 3px;
   -webkit-box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.25);
@@ -2095,7 +2095,7 @@ th {
   border-top: 2px solid #ecf0f1;
 }
 .table .table {
-  background-color: #ffffff;
+  background-color: #18bc9c;
 }
 .table-condensed > thead > tr > th,
 .table-condensed > tbody > tr > th,
@@ -2358,7 +2358,7 @@ output {
   font-size: 15px;
   line-height: 1.42857143;
   color: #2c3e50;
-  background-color: #ffffff;
+  background-color: #18bc9c;
   background-image: none;
   border: 1px solid #dce4ec;
   border-radius: 4px;
