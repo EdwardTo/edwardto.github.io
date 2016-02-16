@@ -16,6 +16,7 @@ if (typeof jQuery === 'undefined') {
   }
 }(jQuery);
 
+
 /* ========================================================================
  * Bootstrap: transition.js v3.3.2
  * http://getbootstrap.com/javascript/#transitions
@@ -46,6 +47,7 @@ if (typeof jQuery === 'undefined') {
         return { end: transEndEventNames[name] }
       }
     }
+
 
     return false // explicit for ie8 (  ._.)
   }
